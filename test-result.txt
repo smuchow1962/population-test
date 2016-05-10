@@ -1,0 +1,131 @@
+===================================
+Controlled Test:
+  Source Data: 
+    0: {"birthYear":1900,"deathYear":1962}
+    1: {"birthYear":1903,"deathYear":1962}
+    2: {"birthYear":1922,"deathYear":1947}
+    3: {"birthYear":1972,"deathYear":1962}
+    4: {"birthYear":1899,"deathYear":1962}
+    5: {"birthYear":1900}
+    6: {"birthYear":1922,"deathYear":1958}
+    7: {"birthYear":1945,"deathYear":1969}
+    8: {"birthYear":1972,"deathYear":1980}
+    9: {"birthYear":1973,"deathYear":1980}
+    10: {"birthYear":1973,"deathYear":1980}
+    11: {"birthYear":1977,"deathYear":1980}
+    12: {"birthYear":1978,"deathYear":1980}
+Population Deltas By Year:
+[1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,-2,0,0,0,0,0,0,-1,0,0,1,2,0,0,0,1,1,0,-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+Population Size By Year:
+[1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,1,1,1,1,1,1,1,0,0,0,1,3,3,3,3,4,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+Population Results:
+{"numSamplesSubmitted":13,"largestPopulationYears":[1945,1946,1978,1979],"numberOfSamplesRecorded":10,"maxPopulationRecorded":5}
+===================================
+Random Test:
+  Source Data: 
+    0: {"birthYear":1960,"deathYear":1985}
+    1: {"birthYear":1911,"deathYear":1923}
+    2: {"birthYear":1904,"deathYear":1943}
+    3: {"birthYear":1930,"deathYear":1944}
+    4: {"birthYear":1901,"deathYear":1983}
+    5: {"birthYear":1932,"deathYear":1994}
+    6: {"birthYear":1913,"deathYear":1987}
+    7: {"birthYear":1922,"deathYear":1955}
+    8: {"birthYear":1917,"deathYear":1935}
+    9: {"birthYear":1991,"deathYear":1996}
+    10: {"birthYear":1942,"deathYear":1990}
+    11: {"birthYear":1913,"deathYear":1990}
+    12: {"birthYear":1934,"deathYear":1943}
+    13: {"birthYear":1912,"deathYear":1963}
+    14: {"birthYear":1905,"deathYear":1990}
+    15: {"birthYear":1905,"deathYear":1950}
+    16: {"birthYear":1940,"deathYear":1966}
+    17: {"birthYear":1974,"deathYear":1990}
+    18: {"birthYear":1931,"deathYear":1994}
+    19: {"birthYear":1968,"deathYear":1990}
+    20: {"birthYear":1905,"deathYear":1975}
+    21: {"birthYear":1959,"deathYear":1963}
+    22: {"birthYear":1900,"deathYear":1902}
+    23: {"birthYear":1906,"deathYear":1977}
+    24: {"birthYear":1929,"deathYear":1980}
+    25: {"birthYear":1932,"deathYear":1973}
+    26: {"birthYear":1923,"deathYear":1949}
+    27: {"birthYear":1922,"deathYear":1962}
+    28: {"birthYear":1924,"deathYear":1928}
+    29: {"birthYear":1933,"deathYear":1949}
+    30: {"birthYear":1903,"deathYear":1977}
+    31: {"birthYear":1940,"deathYear":1947}
+    32: {"birthYear":1949,"deathYear":1967}
+    33: {"birthYear":1955,"deathYear":1959}
+    34: {"birthYear":1910,"deathYear":1964}
+    35: {"birthYear":1980,"deathYear":1996}
+    36: {"birthYear":1954,"deathYear":1985}
+    37: {"birthYear":1902,"deathYear":1921}
+    38: {"birthYear":1909,"deathYear":1967}
+    39: {"birthYear":1916,"deathYear":2000}
+    40: {"birthYear":1964,"deathYear":1992}
+    41: {"birthYear":1974,"deathYear":1981}
+    42: {"birthYear":1902,"deathYear":1995}
+    43: {"birthYear":1912,"deathYear":1969}
+    44: {"birthYear":1970,"deathYear":2000}
+    45: {"birthYear":1905,"deathYear":1953}
+    46: {"birthYear":1944,"deathYear":1976}
+    47: {"birthYear":1912,"deathYear":1975}
+    48: {"birthYear":1936,"deathYear":1943}
+    49: {"birthYear":1919,"deathYear":1972}
+    50: {"birthYear":1914,"deathYear":1972}
+    51: {"birthYear":1910,"deathYear":1921}
+    52: {"birthYear":1926,"deathYear":1938}
+    53: {"birthYear":1916,"deathYear":1946}
+    54: {"birthYear":1928,"deathYear":1970}
+    55: {"birthYear":1920,"deathYear":1936}
+    56: {"birthYear":1978,"deathYear":2000}
+    57: {"birthYear":1952,"deathYear":1989}
+    58: {"birthYear":1916,"deathYear":1967}
+    59: {"birthYear":1964,"deathYear":1976}
+    60: {"birthYear":1934,"deathYear":1970}
+    61: {"birthYear":1950,"deathYear":1996}
+    62: {"birthYear":1906,"deathYear":1963}
+    63: {"birthYear":1911,"deathYear":1987}
+    64: {"birthYear":1920,"deathYear":1927}
+    65: {"birthYear":1936,"deathYear":1974}
+    66: {"birthYear":1938,"deathYear":1975}
+    67: {"birthYear":1928,"deathYear":1974}
+    68: {"birthYear":1906,"deathYear":1936}
+    69: {"birthYear":1952,"deathYear":1996}
+    70: {"birthYear":1946,"deathYear":1993}
+    71: {"birthYear":1956,"deathYear":1969}
+    72: {"birthYear":1928,"deathYear":1970}
+    73: {"birthYear":1939,"deathYear":1995}
+    74: {"birthYear":1910,"deathYear":1941}
+    75: {"birthYear":1962,"deathYear":1973}
+    76: {"birthYear":1903,"deathYear":1934}
+    77: {"birthYear":1929,"deathYear":1959}
+    78: {"birthYear":1956,"deathYear":1972}
+    79: {"birthYear":1906,"deathYear":1991}
+    80: {"birthYear":1933,"deathYear":1979}
+    81: {"birthYear":1960,"deathYear":1991}
+    82: {"birthYear":1923,"deathYear":1966}
+    83: {"birthYear":1956,"deathYear":1989}
+    84: {"birthYear":1918,"deathYear":1990}
+    85: {"birthYear":1927,"deathYear":1959}
+    86: {"birthYear":1933,"deathYear":1989}
+    87: {"birthYear":1930,"deathYear":1984}
+    88: {"birthYear":1944,"deathYear":1957}
+    89: {"birthYear":1985,"deathYear":1996}
+    90: {"birthYear":1921,"deathYear":1954}
+    91: {"birthYear":1902,"deathYear":1971}
+    92: {"birthYear":1903,"deathYear":1963}
+    93: {"birthYear":1905,"deathYear":1983}
+    94: {"birthYear":1926,"deathYear":1975}
+    95: {"birthYear":1960,"deathYear":1989}
+    96: {"birthYear":1916,"deathYear":1938}
+    97: {"birthYear":1945,"deathYear":1966}
+    98: {"birthYear":1953,"deathYear":1991}
+    99: {"birthYear":1960,"deathYear":1992}
+Population Deltas By Year:
+[1,1,2,3,1,5,4,0,0,1,3,2,3,2,1,0,4,1,1,1,2,-1,2,1,1,0,2,0,2,2,2,1,2,3,1,-1,0,0,-1,1,2,-1,1,-3,1,1,0,-1,0,-1,0,0,2,0,0,0,3,-1,0,-2,4,0,0,-4,1,0,-3,-3,1,-2,-2,-1,-3,-2,0,-4,-2,-2,1,-1,0,-1,0,-2,-1,-1,0,-2,0,-4,-6,-2,-2,-1,-2,-2,-5,0,0,0,-3]
+Population Size By Year:
+[1,2,4,7,8,13,17,17,17,18,21,23,26,28,29,29,33,34,35,36,38,37,39,40,41,41,43,43,45,47,49,50,52,55,56,55,55,55,54,55,57,56,57,54,55,56,56,55,55,54,54,54,56,56,56,56,59,58,58,56,60,60,60,56,57,57,54,51,52,50,48,47,44,42,42,38,36,34,35,34,34,33,33,31,30,29,29,27,27,23,17,15,13,12,10,8,3,3,3,3,0]
+Population Results:
+{"numSamplesSubmitted":100,"largestPopulationYears":[1960,1961,1962],"numberOfSamplesRecorded":100,"maxPopulationRecorded":60}
